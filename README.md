@@ -19,7 +19,7 @@ The frontend is built with React/Next.js, and the backend provides an API to man
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/ibrag1moff/quiz-builder
 cd my-project
 ```
 ### 2. Backend Setup
