@@ -34,7 +34,7 @@ PORT=8000
 ```
 Make sure your database server is running. Run database migrations (if applicable) and then start the server:
 ```bash
-npm run migrate
+npm run prisma:migrate:dev
 npm run dev
 ```
 
